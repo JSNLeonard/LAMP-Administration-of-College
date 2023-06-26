@@ -56,20 +56,6 @@ The requirements were to create a web interface allowing school administrators t
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/94c91d16-8e82-42a3-bde0-b9ddb4117e99)
 
-## Removing New Modules Page
-
-### Code of Removing New Modules Page
-
-### Removing New Modules Page
-
-### Code of Removing New Modules Page
-
-### Removing New Modules Page
-
-### Code of Removing New Modules Page
-
-### Removing New Modules Page
-
 
 
 
