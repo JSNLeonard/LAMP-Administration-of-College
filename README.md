@@ -8,7 +8,7 @@ The requirements were to create a web interface allowing school administrators t
 
 ## Add New Students
 
-### Code of Adding New Students
+### Code of Adding New Students Page
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/377466aa-8ec9-4587-8d89-5b717e856f3c)
 
@@ -18,15 +18,17 @@ The requirements were to create a web interface allowing school administrators t
 
 ## Add New Modules
 
-### Adding New Modules Page
+### Code of Adding New Modules Page
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/9b541257-bda7-409e-b7b0-85ee2ca404d8)
+
+### Adding New Modules Page
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/31c0f0bf-b582-4028-a472-aca95aba9799)
 
 ## Add New Programs
 
-### Code of Adding New Programs
+### Code of Adding New Programs Page
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/fa59ec47-df8c-4c64-a336-3953c13fc913)
 
@@ -40,9 +42,46 @@ The requirements were to create a web interface allowing school administrators t
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/8454ace1-4540-4ad1-8919-a99238c86dc5)
 
-### Adding Grades Page
+### Adding New Grades Page
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/0003ac3a-e0f0-40ae-a8bb-5b97062465bb)
+
+## Removing New Grades
+
+### Code of Removing New Grades Page
+
+![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/8f3647b3-33ac-4af6-8084-374270cebd9e)
+
+### Removing New Grades Page
+
+![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/94c91d16-8e82-42a3-bde0-b9ddb4117e99)
+
+## Removing New Modules Page
+
+### Code of Removing New Modules Page
+
+### Removing New Modules Page
+
+### Code of Removing New Modules Page
+
+### Removing New Modules Page
+
+### Code of Removing New Modules Page
+
+### Removing New Modules Page
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Retrieve Results for a Specific Student Based on Their ID
 
