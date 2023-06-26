@@ -1,6 +1,6 @@
 # Building a College Administration System Using LAMP
 
-My task in this College assigmnet was to develop a comprehensive college database system for managing student records and programs. The system should be implemented using the LAMP stack (Linux, Apache, MySQL, PHP).
+My task in this College assignment was to develop a comprehensive college database system for managing student records and programs. The system should be implemented using the LAMP stack (Linux, Apache, MySQL, PHP).
 
 # Code Explained
 
