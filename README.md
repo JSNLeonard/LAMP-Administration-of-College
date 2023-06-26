@@ -1,4 +1,4 @@
-![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/5e279582-2cc3-4de0-8fc7-675a6d782654)# Building a College Administration System Using LAMP
+# Building a College Administration System Using LAMP
 
 My task in this College assigmnet was to develop a comprehensive college database system for managing student records and programs. The system should be implemented using the LAMP stack (Linux, Apache, MySQL, PHP).
 
