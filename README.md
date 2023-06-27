@@ -299,6 +299,3 @@ The requirements were to create a web interface allowing school administrators t
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/f5c528d8-21e4-4f04-bdc0-22a44311ee58)
 
 ![image](https://github.com/JSNLeonard/LAMP-Administration-of-College/assets/48300764/0e623833-eb22-4a48-9ee4-f0ec63817be4)
-
-## Ensure the Website is Securely Accessible Over TLS (Transport Layer Security)
-
